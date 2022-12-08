@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(236, 234, 142);
+  background-color: rgb(230, 201, 53);
 }
 
 #img {
@@ -14,5 +14,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-style: oblique;
   font-size: small;
-  color: brown;
+  color: rgb(237, 32, 32);
 }
+
+
